@@ -1,0 +1,2 @@
+git remote add origin https://github.com/Rae420/Tesseract.git
+git push -u origin master
